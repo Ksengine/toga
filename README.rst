@@ -73,6 +73,7 @@ To get a demonstration of the capabilities of Toga, run the following::
 This will pop up a GUI window with some sample widgets.
 
 .. |gtk_demo| image:: docs/reference/screenshots/gtk.png
+    :height: 90%
 
 .. |cocoa_demo| image:: docs/reference/screenshots/cocoa.png
    
